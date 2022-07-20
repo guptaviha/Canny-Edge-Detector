@@ -15,3 +15,9 @@ For more details: [Prompt](https://github.com/guptaviha/Canny-Edge-Detector/blob
 ```
 python3 canny.py 'House.bmp'
 ```
+
+## Contributors
+
+Suyash Soniminde - sys8910@nyu.edu
+
+Viha Gupta - vg2237@nyu.edu
